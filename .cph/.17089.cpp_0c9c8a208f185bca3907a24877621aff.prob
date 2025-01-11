@@ -1,0 +1,1 @@
+{"name":"Local: 17089","url":"d:\\Files\\Programming\\BOJ\\17089.cpp","tests":[{"id":1736557204952,"input":"5 6\n1 2\n1 3\n2 3\n2 4\n3 4\n4 5","output":"2"},{"id":1736557209955,"input":"7 4\n2 1\n3 6\n5 1\n1 7","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Files\\Programming\\BOJ\\17089.cpp","group":"local","local":true}
