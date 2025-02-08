@@ -1,3 +1,4 @@
 .cph/
 .cph/*.prop
 *.prop
+.vscode/settings.json

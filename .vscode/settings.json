@@ -12,6 +12,7 @@
         "istream": "cpp",
         "streambuf": "cpp",
         "tuple": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "iosfwd": "cpp"
     }
 }
